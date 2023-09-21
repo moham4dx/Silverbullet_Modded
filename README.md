@@ -1,2 +1,1 @@
-# Silverbullet_Modded
-Modded and better Version of Silverbullet
+Modded and better / cleaner Version of Silverbullet
